@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid skyblue;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+    border-radius: 4px;
+}
+button{
+    background: skyblue;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid skyblue;
+    font-weight: bold;
+    border-radius: 4px;
+}
+#delete-btn{
+    background: white;
+    color: skyblue;
+}
+ul{
+    margin-top: 5px;
+    list-style-type: none;
+    padding-left: 0;
+}
+li{
+    margin-top: 5px;
+}
+a{
+    color: skyblue;
+}
